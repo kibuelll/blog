@@ -11,3 +11,4 @@ class ChatroomsChannel < ApplicationCable::Channel
   def unsubscribed
   end
 end
+  
